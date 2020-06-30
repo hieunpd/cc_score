@@ -1,0 +1,877 @@
+;;;;
+1;ABC;ORG;Công ty Truyền thông ABC;0.000683
+2;ADB;ORG;Ngân hàng Phát triển châu Á;0.000791
+3;ADN;DNA;AND;0.000539
+4;ANĐT;;an ninh điều tra;0.000196
+5;ATGT;;An toàn Giao thông;0.000252
+6;ATM;;Máy rút tiền tự động;0.001958
+7;ATNĐ;;áp thấp nhiệt đới;0.00022
+8;ATTT;;An toàn Trật tự;0.000002
+9;ATTTGT;;An toàn Trật tự Giao thông;0.000003
+10;ATVSTP;;an toàn vệ sinh thực phẩm;0.000079
+11;BBCVT;ORG;Bộ Bưu chính Viễn thông;0.000025
+12;BBT;ORG;Ban biên tập;0.000138
+13;BC;Bán công, Bưu chính;0.001078
+14;BCĐ;ORG;Ban chỉ đạo;0.000119
+15;BCĐĐMĐH;ORG;Ban chỉ đạo đổi mới đại học;0.000003
+16;BCĐPCTNTƯ;ORG;Ban chỉ đạo phòng chống tham nhũng trung ương;0.000004
+17;BCĐQG;ORG;Ban chỉ đạo Quốc gia;0.000001
+18;BCĐT;;Bưu chính điện tử;0.000008
+19;BCĐTS;ORG;Ban chỉ đạo tuyển sinh;0.000005
+20;BCHCD;ORG;Ban chỉ huy chiến dịch;0.000001
+21;BCHQS;ORG;Bộ chỉ huy quân sự;0.00002
+22;BCHTƯ;ORG;Ban chỉ huy trung ương;0.000029
+23;BCHTW;ORG;Ban chỉ huy trung ương;0.000025
+24;BCVT;ORG;Bưu chính Viễn thông;0.000553
+25;BD;ORG;Bình Dương;0.000575
+26;BĐ;;Bóng đá;0.000783
+27;BĐN;LOC;Bồ Đào Nha;0.000163
+28;BĐS;;bất động sản;0.001204
+29;BĐVN;ORG;Bóng đá Việt Nam;0.000097
+30;BGD;ORG;Bộ Giáo dục;0.000097
+31;BGDĐT;ORG;Bộ Giáo dục và Đào tạo;0.000039
+32;BGH;ORG;Ban giám hiệu;0.000094
+33;BGK;ORG;Ban giám khảo;0.000336
+34;BH;;Bảo hiểm;0.000419
+35;BHĐC;;bán hàng đa cấp ;0.000076
+36;BHL;ORG;Ban huấn luyện;0.001123
+37;BHV;ORG;Ban huấn luyện;0.000083
+38;BHXH;ORG;Bảo hiểm xã hội;0.001234
+39;BHYT;ORG;Bảo hiểm y tế;0.002012
+40;BIDV;ORG;Ngân hàng Đầu tư và Phát triển Việt Nam;0.000492
+41;BK;;Bách khoa;0.000207
+42;BKS;ORG;Ban Kiểm soát, biển kiểm soát;0.000339
+43;BLHS;;Bộ luật Hình sự;0.000123
+44;BP;ORG;Biên phòng;0.000344
+45;BQL;ORG;Ban quản lý;0.00084
+46;BQLDA;ORG;Ban Quản lý dự án;0.000112
+47;BSC;ORG;Công ty Chứng khoán Ngân hàng Đầu tư & Phát triển Việt Nam;0.000092
+48;BT;;bảo trì, bộ trưởng;0.000434
+49;BTA;;Hiệp định Thương mại Việt - Mỹ;0.000316
+50;BTBNN;;bảo trợ bệnh nhân nghèo;0.000077
+51;BTC;ORG;Ban tổ chức;0.003648
+52;BTS;ORG;Ban tuyển sinh;0.000175
+53;BTV;PER;Biên tập viên;0.000182
+54;BTVH;;Bổ túc Văn hóa;0.000037
+55;BV;ORG;Bện viện;0.008244
+56;BVĐK;ORG;Bệnh viện Đa khoa;0.000146
+57;BVTV;;Bảo vệ thực vật;0.000134
+58;BX;ORG;Bến xe;0.000221
+59;BXL;ORG;Bộ xử lý;0.000088
+60;CAHN;ORG;Công an Hà Nội;0.000093
+61;CAND;ORG;Công an Nhân dân;0.000321
+62;CATP;ORG;Công an Thành phố;0.000232
+63;CB;;Cơ bản, Cán bộ, Chế biến;0.000744
+64;CBCC;PER;cán bộ công chức;0.000164
+65;CBCNV;PER;Cán bộ công nhân viên;0.000338
+66;CBQLGD;PER;cán bộ quản lý giáo dục;0.000179
+67;CCB;PER;Cựu chiến binh;0.000168
+68;CCHC;;cải cách hành chính;0.000336
+69;CĐ;;Cao đẳng;0.016276
+70;CĐDC;;chất độc da cam ;0.000163
+71;CĐSP;ORG;Cao đẳng Sư phạm;0.0004
+72;CĐV;PER;Cổ động viên;0.001514
+73;CG;ORG;Nhóm các nhà tài trợ cho Việt Nam;0.000135
+74;CHDC;;Cộng hòa Dân chủ;0.000129
+75;CHDCND;;Cộng hòa Dân chủ Nhân dân;0.00186
+76;CHLB;;Cộng hòa Liên bang;0.000467
+77;CHND;;Cộng hòa Nhân dân;0.000133
+78;CK;;Chứng khoán;0.000396
+79;CLB;ORG;Câu lạc bộ;0.01458
+80;CMND;;Chứng minh nhân dân;0.001271
+81;CNCN;ORG;Chi nhánh Cấp nước;0.000123
+82;CNH;;Công nghiệp hóa;0.000091
+83;CNKT;PER;công nhân kỹ thuật;0.000095
+84;CNQSDĐ;;chứng nhận quyền sử dụng đất;0.000092
+85;CNSH;;Công nghệ sinh học;0.000102
+86;CNTN;PER;cử nhân tài năng ;0.000097
+87;CNTT;;Công nghệ thông tin;0.004661
+88;CNV;PER;Công nhân viên;0.000394
+89;CNVC;PER;Công nhân viên chức;0.000074
+90;COPD;;bệnh phổi tắc nghẽn mãn tính;0.000109
+91;CP;;Cổ phần, cổ phiếu;0.003568
+92;CPE;;Hợp đồng lao động đầu tiên;0.000125
+93;CPH;;Cổ phần hóa;0.000818
+94;CPP;ORG;Đảng Nhân dân Campuchia;0.000161
+95;CPSXTM;;cổ phần Xây dựng sản xuất thương mại;0.000001
+96;CPTD;;cổ phiếu tự do;0.003568
+97;CPTTT;;chậm phát triển trí tuệ;0.000008
+98;CPXD;;cấp phép xây dựng;0.000141
+99;CQĐT;ORG;Cơ quan điều tra;0.002575
+100;CSCĐ;ORG;cảnh sát cơ động;0.000076
+101;CSDC;ORG;cảnh sát dã chiến;0.000003
+102;CSDL;;Cơ sở Dữ liệu;0.00004
+103;CSĐN;ORG;cảnh sát đặc nhiệm;0.000015
+104;CSĐT;ORG;Cảnh sát điều tra, cơ sở đào tạo;0.002726
+105;CSĐTLX;;cơ sở đào tạo lái xe;0.000003
+106;CSĐTTP;ORG;Cảnh sát Điều tra tội phạm;0.00011
+107;CSĐTTPMT;ORG;Cảnh sát điều tra tội phạm ma túy;0.000003
+108;CSG;ORG;Cảng Sài Gòn;0.001528
+109;CSGT;ORG;Cảnh sát giao thông;0.004006
+110;CSHS;ORG;Cảnh sát Hình sự;0.000134
+111;CSKH;;Chăm sóc khách hàng;0.000015
+112;CSKT;ORG;Cảnh sát kinh tế;0.000027
+113;CSKV;ORG;Cảnh sát khu vực;0.000035
+114;CSPCTPMT;ORG;Cục cảnh sát phòng chống tội phạm ma túy;0.000002
+115;CSPK;;công suất phản kháng;0.000009
+116;CSQLHC;ORG;Cảnh sát Quản lý hành chính;0.000004
+117;CSSD;ORG;Đảng Xã hội Dân chủ cánh tả;0.000007
+118;CSSX;;cơ sở sản xuất;0.000038
+119;CSVC;;Cơ sở vật chất;0.000018
+120;CSVL;ORG;Cao su Việt - Lào ;0.000005
+121;CSVN;ORG;Cộng sản Việt Nam;0.000051
+122;CSXH;;chính sách xã hội;0.000052
+123;CT;;Chính trị, Công ty;0.003486
+124;CTCC;;Công trình Công cộng;0.00002
+125;CTCH;;chấn thương chỉnh hình;0.00002
+126;CTCK;ORG;công ty chứng khoán;0.000051
+127;CTCLQG;ORG;Chương trình chống lao quốc gia;0.000001
+128;CTCN;ORG;Công ty Cấp nước;0.000051
+129;CTCP;ORG;Công ty Cổ phần;0.000026
+130;CTĐ;;Chữ thập đỏ;0.000097
+131;CTĐL;ORG;Công ty Điện lực;0.000407
+132;CTN;;chuyển tiền nhanh;0.000061
+133;CTSN;;Chấn thương sọ não;0.000073
+134;CTTC;;cho thuê tài chính ;0.000032
+135;CTTH;;chương trình truyền hình;0.000036
+136;CTTNHH;ORG;Công ty Trách nhiệm Hữu hạn;0.000003
+137;CTTT;;chương trình tiên tiến;0.000068
+138;CTV;PER;cộng tác viên;0.000126
+139;CTXH;;Công tác xã hội ;0.000137
+140;CV;PER;Chuyên viên;0.000655
+141;CVPM;ORG;Công viên phần mềm ;0.000051
+142;CX;;Cư xá;0.000105
+143;DAGTĐT;;dự án giao thông đô thị;0.000003
+144;ĐATP;ORG;Đông Á - Thép Pomina ;0.00048
+145;ĐB;;Đại biểu, Đồng bằng;0.004442
+146;ĐBDT;;đồng bào dân tộc;0.00001
+147;ĐBP;;Điện Biên Phủ;0.000123
+148;ĐBQH;PER;Đại biểu quốc hội;0.000446
+149;ĐBSCL;LOC;Đồng bằng sông Cửu Long;0.003476
+150;ĐBTN;PER;Đại biểu thanh niên;0.000013
+151;ĐBTSXB;;đánh bắt thủy sản xa bờ;0.000011
+152;ĐC;;địa chỉ, điều chế;0.000163
+153;DCCH;;Dân chủ Cộng hòa;0.000001
+154;ĐCS;ORG;Đảng cộng sản;0.000038
+155;ĐCSTQ;ORG;Đảng cộng sản Trung Quốc;0.000012
+156;ĐCSVN;ORG;Đảng cộng sản Việt Nam;0.00001
+157;DD;;Dân dụng, Dinh dưỡng;0.000076
+158;ĐD;;Đại diện;0.000144
+159;ĐĐ;;Động đất, đất đai;0.000171
+160;DDVN;;Duyên Dáng Việt Nam;0.001194
+161;ĐH;;Đại học;0.077582
+162;ĐHBC;ORG;Đại học Bán công;0.000132
+163;ĐHBK;ORG;Đại học Bách khoa;0.000219
+164;ĐHBKHCM;ORG;Đại học Bách khoa Thành phố Hồ Chí Minh;0.000001
+165;ĐHBKHN;ORG;Đại học Bách khoa Hà Nội;0.000027
+166;ĐHBKTPHCM;ORG;Đại học Bách khoa Thành phố Hồ Chí Minh;0.000009
+167;ĐHCĐ;;đại hội cổ đông, Đại học Công đoàn;0.00003
+168;ĐHCLC;;đại học chất lượng cao;0.000024
+169;ĐHCN;ORG;đại học Công nghệ;0.000025
+170;ĐHCT;ORG;Đại học Cần Thơ;0.000072
+171;ĐHĐCQT;ORG;Đại học đẳng cấp quốc tế;0.000024
+172;ĐHĐD;ORG;Đại học Đông Dương;0.00004
+173;ĐHDL;ORG;Đại học Dân lập;0.002496
+174;ĐHĐN;ORG;Đại học Đà nẵng;0.000058
+175;ĐHGTVT;ORG;Đại học Giao thông Vận tải;0.00004
+176;ĐHHB;ORG;Đại học Hồng Bàng;0.000018
+177;ĐHHVN;ORG;Đại học Hàng hải Việt Nam;0.000002
+178;ĐHKH;ORG;Đại học Khoa học;0.000088
+179;ĐHKHTN;ORG;Đại học Khoa học tự nhiên;0.000119
+180;ĐHKHTNHN;ORG;Đại học Khoa học tự nhiên Hà nội;0.000001
+181;ĐHKHXH;ORG;Đại học Khoa học Xã hội;0.000256
+182;ĐHKT;ORG;Đại học Kỹ thuật;0.000093
+183;DHKTCN;ORG;Đại học Kỹ thuật Công nghệ;0.000003
+184;ĐHKTCN;ORG;Đại học Kỹ thuật Công nghệ;0.000002
+185;ĐHKTQD;ORG;Đại học Kinh tế Quốc dân;0.000021
+186;ĐHN;;Điện hạt nhân, đồng hồ nước;0.000395
+187;ĐHNT;ORG;Đại học Nha Trang;0.00004
+188;ĐHQG;ORG;Đại học Quốc gia;0.002471
+189;ĐHQGHN;ORG;Đại học Quốc gia Hà nội;0.000155
+190;DHS;PER;du học sinh;0.000252
+191;ĐHSP;ORG;Đại học Sư phạm;0.000465
+192;ĐK;;Đăng ký;0.000134
+193;ĐKDT;;đăng ký dự thi;0.001429
+194;ĐKĐT;;điện kế điện tử;0.001803
+195;ĐKHK;;Đăng ký hộ khẩu;0.000458
+196;ĐKKD;;Đăng ký kinh doanh;0.000133
+197;ĐKKH;;đăng ký kết hôn;0.0001
+198;ĐKVĐ;;Đương kim vô địch;0.001665
+199;ĐKVN;;Điền kinh Việt Nam;0.000027
+200;ĐKXT;;đăng ký xét tuyển ;0.000035
+201;DL;;Du lịch;0.000849
+202;ĐL;;đo lường;0.00047
+203;ĐLTP;;điện kế điện tử ;0.000079
+204;ĐMN;;Đá Mỹ Nghệ;0.000112
+205;DN;;Doanh nghiệp;0.020849
+206;ĐN;LOC;Đồng nai, Đà nẵng;0.000783
+207;ĐNA;LOC;Đông nam á;0.000347
+208;ĐNÁ;LOC;Đông Nam Á;0.000099
+209;DNNN;;Doanh nghiệp nhà nước;0.001227
+210;DNT;;Doanh nghiệp trẻ ;0.00045
+211;DNTN;;Doanh nghiệp Tư nhân;0.000572
+212;DNVN;;doanh nghiệp Việt Nam;0.000062
+213;DNVVN;;doanh nghiệp vừa và nhỏ;0.000078
+214;ĐRL;;điểm rèn luyện;0.000058
+215;DS;;dân số;0.0003
+216;ĐS;;đường sắt;0.000139
+217;ĐSQ;ORG;đại sứ quán;0.000386
+218;DT;;dự tuyển;0.000248
+219;ĐT;;Đào tạo;0.025052
+220;ĐTA;;đồng tính ái;0.000083
+221;ĐTB;;điểm trung bình;0.000032
+222;ĐTĐ;;đái tháo đường;0.00014
+223;ĐTDĐ;;Điện thoại di động;0.005684
+224;DTHT;;dạy thêm học thêm;0.000177
+225;ĐTHVN;ORG;Đài truyền hình Việt Nam;0.000007
+226;ĐTLA;;Đồng tính luyến ái;0.00021
+227;ĐTLT;;đào tạo liên thông;0.000091
+228;ĐTNN;;đầu tư nước ngoài;0.000257
+229;DTQG;ORG;Đội tuyển quốc gia;0.000035
+230;ĐTQG;ORG;Đội tuyển quốc gia;0.000835
+231;ĐTTX;;Đào tạo từ xa;0.000052
+232;ĐTTXQM;;Đào tạo từ xa Qua mạng;0.000003
+233;ĐTV;PER;điều tra viên;0.000033
+234;ĐTVHD;;động thực vật hoang dã;0.000015
+235;ĐTVN;ORG;Đội tuyển Việt Nam;0.000372
+236;ĐTXDCB;;đầu tư xây dựng cơ bả;0.000035
+237;DV;;Dịch vụ, Diễn viên;0.00037
+238;ĐV;PER;Đoàn viên;0.000252
+239;ĐVHT;;Đơn vị học trình;0.000008
+240;DVTMCM;ORG;dịch vụ thương mại Cà Mau;0.000008
+241;ĐVTN;PER;đoàn viên thanh niên;0.000699
+242;DVTT;;Dịch vụ trực tuyến, dịch vụ thông tin;0.000003
+243;ĐVTTN;ORG;Đoàn viên thanh thiếu nhi;0.000002
+244;ĐVƯT;PER;đoàn viên ưu tú;0.000003
+245;DVVL;;dịch vụ việc làm;0.000077
+246;EU;ORG;Liên minh châu Âu;0.006917
+247;EVN;ORG;Công ty Viễn thông điện lực;0.001928
+248;FIFA;ORG;Liên đoàn bóng đá thế giới;0.002269
+249;GATT;;Hiệp định chung về Thuế quan và Thương mại ;0.0001
+250;GCMND;;giấy chứng minh nhân dân;0.000013
+251;GCN;;Giấy chứng nhận;0.000832
+252;GCNĐKKD;;Giấy chứng nhận đăng ký kinh doanh;0.000003
+253;GCNKQT;;giấy chứng nhận kết quả thi ;0.000039
+254;GCNQSD;;giấy chứng nhận quyền sử dụng;0.000029
+255;GCNQSDĐ;;Giấy chứng nhận quyền sử dụng đất;0.000214
+256;GCNQSDĐƠ;;Giấy chứng nhận quyền sử dụng đất ở;0.000004
+257;GCNQSH;;Giấy chứng nhận quyền sở hữu;0.00001
+258;GCNQSHN;;Giấy chứng nhận quyền sở hữu nhà;0.000026
+259;GCNQSHNƠ;;Giấy chứng nhận quyền sở hữu nhà ở;0.000076
+260;GCNSK;;giấy chứng nhận sức khỏe;0.000006
+261;GCQ;;giấy chủ quyền;0.000057
+262;GD;;Giáo dục;0.019989
+263;GĐ;PER;Giám đốc;0.001792
+264;GDĐH;;giáo dục dục đại học;0.000496
+265;GĐĐH;;giám đốc điều hành;0.000107
+266;GDĐT;;Giáo dục & Đào tạo;0.000386
+267;GDGT;;giáo dục giới tính ;0.00021
+268;GDNN;;giáo dục nghề nghiệp;0.00004
+269;GĐT;ORG;Gạch Đồng Tâm;0.000634
+270;GĐTLA;ORG;Gạch Đồng Tâm Long An;0.001633
+271;GĐTT;PER;Giám đốc thông tin;0.000008
+272;GDTX;;Giáo dục thường xuyên ;0.000131
+273;GHPGVN;ORG;Giáo hội Phật giáo Việt Nam;0.000076
+274;GK;;Giáo khoa;0.000029
+275;GKQT;;chứng nhận kết quả thi;0.000014
+276;GL;LOC;Gia Lai;0.000215
+277;GMD;PER;gái mại dâm ;0.000223
+278;GP;;Giấy phép;0.000113
+279;GPC;ORG;Công ty Dịch vụ Viễn thông;0.000185
+280;GPLHĐB;;giấy phép lưu hành đặc biệt;0.00009
+281;GPLX;;Giấy phép lái xe;0.000704
+282;GPNK;;phép nhập khẩu;0.000004
+283;GPTM;;giải phẫu thẩm mỹ;0.000167
+284;GPXD;;Giấy phép xây dựng;0.000078
+285;GS;PER;Giáo sư;0.000098
+285;GSTS;PER;Giáo sư Tiến sỹ;0.000098
+286;GSTSKH;PER;Giáo sư Tiến sỹ Khoa học;0.000001
+287;GSTT;PER;giám sát trọng tài;0.000004
+288;GT;;Giao thông , Giá trị;0.000304
+289;GTCC;;Giao thông Công chánh;0.001773
+290;GTGT;;Giá trị gia tăng;0.000674
+291;GTMT;;giãn tĩnh mạch tinh;0.000072
+292;GTVT;;Giao thông Vận tải;0.00265
+293;GV;PER;Giáo viên, Giảng viên;0.003691
+294;GVCN;PER;Giáo viên chủ nhiệm;0.000016
+295;GVG;PER;giáo viên giỏi ;0.00002
+296;GVMN;PER;giáo viên mầm non, giáo viên miền núi;0.000004
+297;GVTH;PER;giáo viên tiểu học;0.000054
+298;GVTN;PER;giáo viên tình nguyện;0.000025
+299;HAGL;ORG;Hoàng Anh Gia Lai;0.002671
+300;HB;;Học bổng;0.000496
+301;HBV;;virus viêm gan B;0.000085
+302;HC;;hành chính, huy chương;0.000871
+303;HCB;;Huy chương bạc;0.00073
+304;HCĐ;;Huy chương đồng;0.000567
+305;HCM;PER;Hồ Chí Minh;0.113195
+306;HCTC;;học chế tín chỉ ;0.000057
+307;HCTL;;hội chợ triển lăm;0.00002
+308;HCV;;Huy chương vàng;0.002659
+309;HCVL;;Hội chợ việc làm ;0.000012
+310;HD;;Hướng dẫn;0.000378
+311;HĐ;;Hội đồng, Hợp đồng;0.000321
+312;HĐBA;ORG;Hội đồng Bảo an Liên Hiệp Quốc;0.00059
+313;HĐCD;ORG;Hội đồng chức danh;0.000005
+314;HĐCDGS;ORG;Hội đồng chức danh giáo sư;0.000003
+315;HĐCDGSCS;ORG;Hội đồng chức danh giáo sư cơ sở;0.000004
+316;HĐCDGSN;ORG;Hội đồng Chức danh giáo sư ngành;0.000004
+317;HĐCDGSNN;ORG;Hội đồng Chức danh giáo sư nhà nước;0.000025
+318;HĐCT;ORG;hội đồng coi thi;0.000018
+319;HĐĐB;ORG;Hội đồng Đền bù;0.000002
+320;HĐĐG;ORG;Hội đồng định giá;0.000013
+321;HĐH;;Hệ điều hành;0.000307
+322;HĐKT;;hợp đồng kinh tế;0.000023
+323;HĐLĐ;;Hợp đồng lao động ;0.00012
+324;HĐNDTP;ORG;Hội đồng nhân dân thành phố;0.000039
+325;HĐNT;;hội đồng nghệ thuật;0.000131
+326;HĐQT;;Hội đồng Quản trị;0.00153
+327;HĐT;ORG;hội đồng trường , hội đồng thi ;0.000436
+328;HĐTĐ;ORG;Hội đồng thẩm định;0.000034
+329;HĐTS;ORG;Hội đồng tuyển sinh;0.000072
+330;HĐTT;ORG;Hội đồng Trọng tài;0.000105
+331;HDV;PER;hướng dẫn viên;0.000386
+332;HĐXX;ORG;Hội đồng xét xử;0.001668
+333;HH;PER;Hoa hậu;0.000404
+334;HHTG;PER;Hoa hậu Thế giới;0.000112
+335;HHVN;PER;Hoa hậu Việt Nam;0.00013
+336;HK;;Học kỳ;0.000626
+337;HKDD;;Hàng không dân dụng;0.000026
+338;HKDDVN;ORG;Hàng không dân dụng Việt Nam;0.000014
+339;HKHKT;ORG;hội khoa học kỹ thuật;0.000002
+340;HKHKTVN;ORG;hội khoa học kỹ thuật Việt Nam;0.000001
+341;HKTT;;hộ khẩu thường trú;0.000139
+342;HL;;huấn luyện;0.000162
+343;HLBĐ;ORG;Hoa Lâm Bình Định;0.000108
+344;HLQG;;Huấn luyện Quốc gia;0.000038
+345;HLTTQG;ORG;Trung tâm huấn luyện thể thao quốc gia;0.000135
+346;HLV;PER;Huấn luyện viên;0.020905
+347;HMNĐ;;hiến máu nhân đạo;0.000063
+348;HN;;Hà Nội, Hội nghị;0.003041
+349;HND;ORG;Hội nông dân;0.000032
+350;HNGĐ;;hôn nhân gia đình;0.000011
+351;HNHT;ORG;hội nghị hiệp thương ;0.000011
+352;HNV;ORG;Hội Nhà văn;0.000047
+353;HP;;Hải phòng, Học phần;0.004214
+354;HPHN;ORG;Hòa Phát Hà Nội ;0.000092
+355;HQ;;Hải quan, Hàn quốc;0.001871
+356;HQĐT;ORG;Hải quan điện tử;0.000062
+357;HQHP;ORG;Hải quan Hải phòng;0.000003
+358;HS;PER;Học sinh;0.017442
+359;HSBC;PER;Học sinh bán công;0.000444
+360;HSĐKDT;;Hồ sơ đăng ký dự thi;0.00004
+361;HSDPA;;Truy nhập gói đường xuống tốc độ cao;0.000092
+362;HSG;PER;học sinh giỏi;0.000112
+363;HSGQG;PER;học sinh giỏi Quốc gia;0.000026
+364;HSGQT;PER;học sinh giỏi Quốc tế;0.000001
+365;HSPT;PER;học sinh phổ thông;0.00016
+366;HSSV;PER;Học sinh sinh viên;0.000813
+367;HSV;ORG;Hội sinh viên;0.000098
+368;HTCĐ;;học tập cộng đồng;0.000002
+369;HTXDVNN;ORG;Hợp tác xã dịch vụ nông nghiệp;0.000001
+370;HUD;ORG;Tổng công ty Đầu tư phát triển nhà và đô thị ;0.000231
+371;HV;;Học viên;0.000565
+372;HVANND;ORG;Học viện An ninh Nhân dân;0.000001
+373;HVBCVT;ORG;Học viện Bưu chính Viễn thông;0.000001
+374;HVCH;ORG;Học viên Cao học;0.000001
+375;HVCNBCVT;ORG;Học viện Công nghệ Bưu chính Viễn thông;0.000001
+376;HVKHQS;ORG;Học viện Khoa học Quân sự;0.000001
+377;HVN;ORG;Honda Việt Nam;0.000124
+378;HVNCL;;Hàng Việt Nam chất lượng;0.000001
+379;HVNCLC;;Hàng Việt Nam chất lượng cao;0.000039
+380;HVNH;ORG;Học viện Ngân hàng;0.000002
+381;IMF;;Quỹ tiền tệ quốc tế;0.00063
+382;KBNN;ORG;Kho bạc Nhà nước;0.000114
+383;KBS;ORG;Kênh truyền hình TW Hàn Quốc;0.000137
+384;KCB;;khám chữa bệnh;0.00087
+385;KCN;;Khu công nghiệp;0.002442
+386;KCX;;Khu chế xuất;0.000707
+387;KDC;;khu dân cư;0.000315
+388;KĐCL;;Kiểm định chất lượng;0.000058
+389;KĐCLGD;;Kiểm định chất lượng Giáo dục;0.000061
+390;KDCN;;Kiểu dáng công nghiệp;0.000018
+391;KDDV;;kinh doanh dịch vụ;0.000001
+392;KDĐV;;Kiểm dịch động vật;0.000003
+393;KDHĐC;;kinh doanh hàng đa cấp;0.000003
+394;KDL;;Khu du lịch;0.00013
+395;KDN;;Kinh doanh nhà;0.000019
+396;KDNPN;ORG;Kinh doanh nhà Phú Nhuận;0.000004
+397;KĐS;;Khu đường sông;0.00003
+398;KĐT;;Khu đô thị;0.000105
+399;KĐTM;;Khu đô thị mới;0.000065
+400;KĐTNTL;ORG;Đô thị Nam Thăng Long;0.00004
+401;KH;;Kế hoạch;0.002951
+402;KHCN;;Khoa học Công nghệ;0.000511
+403;KHĐT;;Kế hoạch Đầu tư;0.000134
+404;KHKD;;Kế hoạch kinh doanh;0.000033
+405;KHKT;;Khoa học Kỹ thuật;0.000172
+406;KHKTHN;;Khoa học Kỹ thuật Hạt nhân;0.000002
+407;KHKTHS;;Khoa học kỹ thuật hình sự;0.000002
+408;KHKTNN;;Khoa học kỹ thuật Nông nghiệp;0.000008
+409;KHKTNNMN;ORG;Khoa học kỹ thuật Nông nghiệp miền Nam;0.000001
+410;KHLS;;Khoa học lịch sử;0.000011
+411;KHTN;;Khoa học Tự nhiên;0.000581
+412;KHXH;;Khoa học Xãn hội;0.001798
+413;KK;;Khuyến khích;0.0001
+414;KKT;;khu kinh tế;0.000124
+415;KL;;Kết luận;0.000109
+416;KLĐT;;kết luận điều tra;0.000019
+417;KLQG;;Kỷ lục quốc gia ;0.000068
+418;KN;;Khuyến nông;0.000112
+419;KNTC;;khiếu nại tố cáo;0.000138
+420;KP;;khu phố;0.000312
+421;KS;PER;Kỹ sư, Khách sạn;0.001101
+422;KSND;ORG;Kiểm sát nhân dân;0.002588
+423;KSNDTC;ORG;Kiểm sát Nhân dân Tối cao;0.000169
+424;KST;;ký sinh trùng;0.000069
+425;KSV;PER;kiểm sát viên;0.00007
+426;KTM;;Khu thương mại;0.00011
+427;KTNN;;Kinh tế nhà nước;0.000231
+428;KTQD;;kinh tế quốc dân;0.000062
+429;KTQDHN;ORG;Kinh tế Quốc dân Hà Nội;0.000002
+430;KTS;PER;Kiến trúc sư;0.00072
+431;KTTV;;khí tượng thủy văn;0.000037
+432;KTV;PER;Kỹ thuật viên;0.000107
+433;KTX;;Ký túc xá;0.002402
+434;KV;;Khu vực;0.000429
+435;KV1;LOC;Khu vực 1;0.000392
+436;KV2;LOC;Khu vực 2;0.000528
+437;KV3;LOC;Khu vực 3;0.000297
+438;LB;;Liên bang;0.000428
+439;LCT;;Luật Cạnh tranh, Luật công ty;0.000038
+440;LĐ;;Lao động;0.004849
+441;LĐBĐ;ORG;Liên đoàn bóng đá;0.002098
+442;LĐBĐVN;ORG;Liên đoàn bóng đá Việt Nam;0.002445
+443;LĐLĐ;ORG;Liên đoàn Lao động;0.000132
+444;LDP;ORG;Đảng Dân chủ Tự do;0.000119
+445;LĐTB;;Lao động Thương binh;0.000107
+446;LĐTBXH;;Lao động Thương binh Xã hội;0.00007
+447;LH;;Liên hiệp, Liên hoan;0.000322
+448;LHP;;Liên hoan phim;0.001184
+449;LHPN;ORG;Liên hiệp Phụ nữ;0.000169
+450;LHQ;;Liên hiệp quốc, Lên hợp quốc;0.004466
+451;LHS;PER;lưu học sinh;0.000418
+452;LHTN;ORG;Liên hiệp Thanh niên;0.002014
+453;LHTNVN;ORG;Hội Liên hiệp Thanh niên Việt Nam;0.000122
+454;LL;;lực lượng;0.00003
+455;LLLĐ;;Lực lượng lao động;0.000004
+456;LS;PER;Luật sư;0.002278
+457;LSQ;PER;Lãnh sự quán;0.000078
+458;LTQĐTD;;lây truyền qua đường tình dục;0.000037
+459;MB;ORG;Ngân hàng TMCP quân đội;0.001492
+460;MBH;;mũ bảo hiểm;0.000442
+461;MHX;;Mùa hè xanh;0.000364
+462;MS;;Mã số;0.000454
+463;MT;;Môi trường, Mặt trận;0.001517
+464;MTĐT;;Máy tính điện tử;0.000029
+465;MTTQ;;Mặt trận tổ quốc;0.001418
+466;MTTQVN;ORG;Mặt trận tổ quốc Việt Nam;0.000082
+467;MTXT;;Máy tính xách tay;0.000234
+468;NC;;Nghiên cứu;0.000158
+469;NCC;;nhà cung cấp;0.000065
+470;NCKH;;nghiên cứu khoa học;0.000412
+471;NCL;;ngoài công lập;0.000088
+472;NCS;PER;Nghiên cứu sinh;0.000271
+473;NCTO;ORG;Hội đồng Các Tổ chức Dệt may Quốc gia Mỹ ;0.00001
+474;NCTT;;Nghiên cứu thị trường;0.000018
+475;ND;;Nhân dân;0.000175
+476;NĐ;;Nghị định;0.002164
+477;NDC;ORG;Trung tâm dữ liệu Viễn thám Quốc gia;0.000004
+478;NDT;;Nhân dân tệ;0.000869
+479;NĐT;;Nhà đầu tư;0.000156
+480;NĐVN;PER;người đẹp Việt Nam;0.000154
+481;NH;;Ngân hàng;0.004367
+482;NHCSXH;ORG;Ngân hàng Chính sách xã hội ;0.000124
+483;NHCTCN;ORG;Ngân hàng Công thương Chi nhánh;0.000004
+484;NHCTHP;ORG;Ngân hàng Công thương Hải Phòng;0.000007
+485;NHCTVN;ORG;Ngân hàng Công thương Việt Nam;0.000004
+486;NHĐA;ORG;Ngân hàng Đông Á;0.000738
+487;NHĐÁ;ORG;Ngân hàng Đông Á;0.000037
+488;NHĐT;ORG;Ngân hàng Đầu tư;0.00001
+489;NHĐTPT;ORG;Ngân hàng Đầu tư phát triển;0.000005
+490;NHK;ORG;Đài truyền hình quốc gia Nhật Bản;0.000136
+491;NHNN;ORG;Ngân hàng nhà nước;0.000714
+492;NHNNo;ORG;Ngân hàng Nông nghiệp và Phát triển Nông thôn;0.000004
+493;NHNNPTNT;ORG;Ngân hàng Nông nghiệp và Phát triển Nông thôn;0.000004
+494;NHNNVN;ORG;Ngân hàng Nhà nước Việt Nam;0.000048
+495;NHNoVN;ORG;Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam;0.000001
+496;NHNT;ORG;Ngân hàng Ngoại thương;0.000009
+497;NHRC;ORG;Ủy ban Nhân quyền quốc gia;0.000001
+498;NHTM;ORG;Ngân hàng Thương mại;0.000255
+499;NHTMCP;;ngân hàng thương mại cổ phần;0.000025
+500;NHTMNN;;ngân hàng thương mại nhà nước;0.000032
+501;NHTMQD;;ngân hàng thương mại quốc doanh;0.000017
+502;NHTQ;ORG;Ngân hàng Trung ương Trung Quốc;0.000002
+503;NHTSA;ORG;Cục an toàn xa lộ quốc gia Mỹ;0.000003
+504;NHTƯ;ORG;Ngân hàng Trung ương ;0.000012
+505;NHTW;ORG;Ngân hàng Trung ương ;0.000014
+506;NK;;Nhập khẩu;0.000382
+507;NKBV;;nhiễm khuẩn bệnh viện;0.000018
+508;NKKN;LOC;Nam Kỳ Khởi Nghĩa;0.000024
+509;NKNV;;Năng khiếu Nghiệp vụ;0.000013
+510;NKT;PER;người khuyết tật;0.000331
+511;NL;;Năng lượng;0.000121
+512;NLĐ;PER;Người lao động;0.000506
+513;NLMT;;năng lượng mặt trời ;0.000038
+514;NLS;;nông lâm sản;0.000035
+515;NLTT;;năng lượng tái tạo;0.000039
+516;NMĐ;ORG;nhà máy điện;0.000059
+517;NN;;Nhà nước;0.002253
+518;NNCĐDC;PER;Nạn nhân chất độc da cam;0.000037
+519;NNPTNT;;Nông nghiệp và Phát triển nông thôn;0.000025
+520;NPP;;Nhà phân phối;0.000095
+521;NQ;;Nghị quyết;0.00028
+522;NQD;;ngoài quốc doanh;0.000019
+523;NS;PER;Nghệ sỹ;0.000531
+524;NSND;PER;Nghệ sỹ nhân dân;0.000667
+525;NSNN;;ngân sách nhà nước ;0.000192
+526;NST;;nhiễm sắc thể;0.00014
+527;NSƯT;PER;Nghệ sỹ ưu tú;0.001133
+528;NTBD;;Nghệ thuật biểu diễn;0.000079
+529;NTD;PER;Nhà tuyển dụng, người tiêu dùng;0.000127
+530;NTK;PER;nhà thiết kế;0.000148
+531;NV;;Nhân viên, Nguyện vọng;0.003478
+532;NV1;;Nguyện vọng 1;0.001671
+533;NV2;;Nguyện vọng 2;0.005609
+534;NV3;;Nguyện vọng 3;0.001464
+535;NVH;ORG;Nhà văn hóa;0.000289
+536;NVHTN;ORG;Nhà Văn hóa Thanh niên ;0.000156
+537;NXB;ORG;Nhà xuất bản;0.00001
+538;NXBGD;ORG;Nhà xuất bản Giáo dục;0.000173
+539;NXBKHXH;ORG;Nhà xuất bản Khoa học Xã hội;0.000002
+540;NXBQĐND;ORG;Nhà xuất bản Quân đội Nhân dân;0.000002
+541;NXBTN;ORG;Nhà xuất bản Tự nhiên;0.000002
+542;NXBVHTT;ORG;Nhà xuất bản Văn hóa Nghệ thuật;0.000003
+543;PC14;ORG;Phòng Cảnh sát điều tra tội phạm về trật tự xã hội;0.000309
+544;PC15;ORG;Phòng Cảnh sát điều tra tội phạm về quản lý kinh tế và chức vụ;0.00017
+545;PC16;ORG;Phòng Cảnh sát điều tra;0.000042
+546;PC17;ORG;Phòng cảnh sát phòng chống tội phạm ma tuý;0.000083
+547;PCBL;;phòng chống bão lụt;0.000043
+548;PCBLTKCN;;phòng chống bão lụt và tìm kiếm cứu nạn;0.000003
+549;PCBTH;;phổ cập bậc trung học;0.000002
+550;PCC;ORG;Phòng công chứng;0.000158
+551;PCCC;;Phòng cháy chửa cháy;0.000989
+552;PCGD;;phổ cập giáo dục;0.000036
+553;PCGDBTH;;phổ cập giáo dục bậc trung học;0.00001
+554;PCGDTH;;phổ cập giáo dục tiểu học;0.000014
+555;PCGDTHCS;;phổ cập giáo dục trung học cơ sở;0.000003
+556;PCLBMN;;phòng chống lụt bão miền Nam;0.000001
+557;PCLBTƯ;;phòng chống lụt bão Trung ương;0.000006
+558;PCLBTW;;phòng chống lụt bão Trung ương;0.000008
+559;PCT;PER;Phó chủ tịch, ;0.00015
+560;PCTH;;phổ cập tiểu học;0.000006
+561;PCTHCS;;phổ cập trung học cơ sở;0.000012
+562;PCTN;;Phòng chống tệ nạn;0.000054
+563;PCTNXH;;Phòng chống tệ nạn xã hội;0.000003
+564;PCTPCNC;;Phòng chống tội phạm công nghệ cao;0.000002
+565;PGĐ;PER;Phó giám đốc;0.000186
+566;PGHH;ORG;Phật giáo Hòa Hảo;0.000024
+567;PGS;PER;Phó Giáo sư;0.002847
+568;PHHS;PER;phụ huynh học sinh;0.000309
+569;PL;;Pháp luật;0.00011
+570;PLO;ORG;Tổ chức Giải phóng Palestin;0.000109
+571;PM;;phần mềm;0.000126
+572;PMU;ORG;Ban quản lý dự án;0.002072
+573;PMU18;ORG;Ban quản lý dự án 18;0.001263
+574;PN;;Phụ nữ;0.000248
+575;PNTR;;Quy chế Thương mại bình thường vĩnh viễn;0.001332
+576;PP;;phương pháp;0.000175
+577;PS;;Phóng sự;0.000097
+578;PTCS;;Phổ thông cơ sở;0.000173
+579;PTN;;phòng thí nghiệm;0.000105
+580;PTNT;;Phát triển Nông thôn;0.00199
+581;PTSC;ORG;Công ty Dịch vụ Kỹ thuật dầu khí;0.000535
+582;PTT;PER;Phó thủ tướng;0.000084
+583;PTTH;;Phổ thông trung học;0.001418
+584;PTTM;;Phẫu thuật thẩm mỹ;0.000058
+585;PTTT;;Phát triển trẻ thơ;0.000008
+586;PTV;PER;Phát thanh viên;0.000191
+587;PV;PER;Phóng viên, Phỏng vấn;0.004889
+588;PY;LOC;Phú Yên;0.000091
+589;QBLTD;;Quĩ bảo lãnh tín dụng;0.000029
+590;QC;;Quy chế;0.000119
+591;QCDCCS;;quy chế dân chủ cơ sở;0.000011
+592;QCGNHH;;Quy chế ghi nhãn hàng hóa;0.000004
+593;QCHQ;PER;quan chức hải quan;0.000002
+594;QCKDTXD;;Quy chế kinh doanh thép xây dựng;0.000001
+595;QCKT;;quy chuẩn kĩ thuật;0.000004
+596;QĐ;;Quyết định;0.00219
+597;QĐND;;Quân đội nhân dân;0.000126
+598;QG;;Quốc gia;0.000615
+599;QH;;Quốc hội;0.007185
+600;QHTD;;Quan hệ tình dục;0.000155
+601;QK;;Quân khu;0.00018
+602;QL;;Quản lý;0.000557
+603;QLD;;Quản lý dược;0.00009
+604;QLDA;;Quản lý dự án;0.000081
+605;QLĐT;;Quản lý Đào tạo;0.000226
+606;QLTT;;Quản lý thị trường;0.000632
+607;QN;LOC;Quảng Ninh;0.000242
+608;QSD;;quyền sử dụng;0.000112
+609;QSDĐ;;quyền sử dụng đất;0.000496
+610;QTKD;;Quản trị Kinh doanh;0.000315
+611;RLC;;rối loạn cương;0.000203
+612;RLCD;;rối loạn cương dương;0.000151
+613;SARS;;SARS, Hội chứng hô hấp cấp tính nặng;0.001857
+614;SBD;;Số báo danh;0.000779
+615;SBS;ORG;Công ty Chứng khoán Ngân hàng Sài Gòn Thương Tín;0.000134
+616;SD;;sử dụng;0.000257
+617;SDĐ;;sử dụng đất;0.000414
+618;SDĐNN;;sử dụng đất nông nghiệp;0.000002
+619;SĐH;;sau đại học ;0.000172
+620;SĐK;;số đăng ký;0.000138
+621;SĐNĐ;ORG;Sông Đà Nam Định;0.000769
+622;SĐT;;số điện thoại;0.000005
+623;SĐTLA;ORG;Sơn Đồng Tâm Long An;0.000004
+624;SG;LOC;Sài Gòn;0.000267
+625;SGD;ORG;Sở giáo dục;0.000394
+626;SGGP;;Sài gòn giải phóng;0.000163
+627;SGK;;Sách giáo khoa;0.002016
+628;SGT;ORG;Saigontourist ;0.000093
+629;SGTT;ORG;Sài Gòn Tiếp Thị ;0.00003
+630;SGTVT;ORG;Sở Giao thông Vận tải;0.000001
+631;SH;;Sinh hoạt;0.000203
+632;SHNN;;Sở hữu nhà nước;0.000238
+633;SHTD;;sinh hoạt tình dục;0.000002
+634;SHTT;;sở hữu trí tuệ ;0.000203
+635;SJC;ORG;Công Ty Vàng Bạc Đá Quý TP Hồ Chí Minh;0.001507
+636;SK;;Sân khấu;0.000436
+637;SKHCN;ORG;Sở Khoa học Công nghệ;0.000001
+638;SKHCNMT;ORG;Sở Khoa học Công nghệ và Môi trường;0.000002
+639;SKHĐT;ORG;Sở Kế hoạch và Đầu tư;0.000001
+640;SKSS;;sức khỏe sinh sản;0.000166
+641;SLNA;ORG;Sông Lam Nghệ An;0.003406
+642;SMĐH;;Sao mai Điểm hẹn;0.000186
+643;SN;;Sinh năm, sinh ngày;0.002514
+644;SNN;ORG;sở Nông nghiệp;0.000002
+645;SP;;Sư phạm, Sản phẩm;0.001632
+646;SPKT;;Sư phạm kỹ thuật;0.000097
+647;SS;;Sĩ số;0.000097
+648;SSA;ORG;Hiệp hội Tôm miền Nam nước Mỹ;0.000198
+649;STB;ORG;Ngân hàng thương mại cổ phần Sài Gòn Thương Tín;0.0001
+650;SV;PER;Sinh viên;0.027413
+651;SVĐ;;Sân vận động;0.000782
+652;SVĐV;;Sao Vàng Đất Việt ;0.000033
+653;SVHS;PER;Sinh viên học sinh;0.000394
+654;SV–HS;PER;Sinh viên học sinh;0.000001
+655;SVNCKH;PER;Sinh viên nghiên cứu khoa học;0.000011
+656;SVTN;PER;Sinh viên tình nguyện;0.000386
+657;SVVN;PER;Sinh viên Việt Nam;0.000633
+658;SX;;Sản xuất;0.000297
+659;SXH;;sốt xuất huyết;0.000887
+660;SYLL;;Sơ yếu lý lịch;0.000003
+661;TACN;;thức ăn chăn nuôi;0.000104
+662;TAND;ORG;Tòa án nhân dân;0.005013
+663;TANDTC;ORG;Tòa án Nhân dân Tối cao;0.0002
+664;TBD;LOC;Thái Bình Dương ;0.000146
+665;TBKTSG;ORG;Thời báo kinh tế Sài Gòn ;0.000024
+666;TBKTVN;ORG;Thời báo Kinh tế Việt Nam;0.000029
+667;TBMMN;;Tai biến mạch máu não;0.000025
+668;TBT;PER;Tổng biên tập;0.000191
+669;TBTT;;thuê bao trả trước;0.000018
+670;TBXH;;Thương binh Xã hội;0.000069
+671;TC;;Tài chính, Tổng cộng;0.00077
+672;TCBVNTD;;Tiêu chuẩn và bảo vệ người tiêu dùng;0.000003
+673;TCCN;;trung cấp chuyên nghiệp;0.000713
+674;TCCS;;tổ chức cơ sở, Tạp chí Cộng sản;0.000072
+675;TCDL;ORG;Tổng cục Du lịch ;0.000152
+676;TCHL;;tuyệt chủng hàng loạt;0.000004
+677;TCHQ;ORG;Tổng cục hải quan;0.000061
+678;TCKH;;Tài chính - Kế hoạch, Tạp chí Khoa học, trái cây không hạt;0.000009
+679;TCKT;;Tài chính - Kế toán;0.000007
+680;TCMN;;thủ công mỹ nghệ;0.000013
+681;TCMR;;tiêm chủng mở rộng ;0.000023
+682;TCN;;trung cấp nghề;0.000069
+683;TCNN;;Tài chính nhà nước;0.000004
+684;TCS;PER;Trịnh Công Sơn;0.000061
+685;TCT;;Tổng công ty;0.000492
+686;TCTD;;tổ chức tín dụng;0.000064
+687;TCTT;;trò chơi trực tuyến;0.000054
+688;TCTTMSG;ORG;Tổng công ty Thương mại Sài Gòn;0.00003
+689;TCVN;;Tiêu chuẩn Việt Nam ;0.000144
+690;TCVSG;ORG;Thảo Cầm Viên Sài Gòn;0.000051
+691;TD;;tình dục;0.000157
+692;TĐ;;từ điển;0.000163
+693;TĐBKVN;;Từ Điển Bách Khoa Việt Nam;0.000034
+694;TĐC;;tái định cư;0.000422
+695;TDTT;;Thể dục thể thao;0.00397
+696;TDTTQG;;Thể dục thể thao Quốc gia;0.000005
+697;TDV;PER;trình dược viên;0.000126
+698;TFS;ORG;Hãng phim Truyền hình TPHCM;0.000209
+699;TG;;thế giới;0.000495
+700;TGĐ;PER;Tổng giám đốc;0.00056
+701;TGPL;;trợ giúp pháp lý;0.000067
+702;TH;;Truyền hình, Trung học;0.001749
+703;THCB;;Trung học Chuyên ban;0.000001
+704;THCN;;Trung học chuyên nghiệp;0.002323
+705;THCS;;Trung học cơ sở;0.00663
+706;THCSND;;Thực hiện chính sách nhà đất;0.00002
+707;THCSNĐ;;Thực hiện chính sách nhà đất;0.000004
+708;THDL;;trung học dân lập;0.000027
+709;THGT;;tín hiệu giao thông;0.000088
+710;THKTS;;truyền hình kỹ thuật số;0.000025
+711;THKTSMĐ;;truyền hình kỹ thuật số mặt đất;0.000007
+712;THPT;;Trung học phổ thông;0.014017
+713;THQG;;thương hiệu quốc gia;0.000042
+714;THS;;Tín hiệu số;0.000248
+715;THTT;;truyền hình trực tiếp;0.00006
+716;THVN;;Truyền hình Việt Nam;0.000152
+717;THX;ORG;Tân hoa xã;0.000211
+718;TK;;thiết kế;0.000105
+719;TKCN;;tìm kiếm cứu nạn;0.000119
+720;TM;;Thương mại;0.000769
+721;TMCP;;Thương mại cổ phần;0.00035
+722;TMĐT;;Thương mại Điện tử;0.000327
+723;TMN;ORG;Thép Miền Nam ;0.001106
+724;TMV;ORG;Công ty ôtô Toyota Việt Nam;0.000196
+725;TN;PER;Thanh niên;0.005439
+726;TNCN;;thu nhập cá nhân ;0.000625
+727;TNCS;PER;Thanh niên cộng sản;0.001109
+728;TNĐH;;tốt nghiệp đại học;0.000022
+729;TNDN;;Thu nhập doanh nghiệp;0.000092
+730;TNĐT;;Thoát nước Đô thị;0.000018
+731;TNGT;;Tai nạn giao thông;0.000672
+732;TNHC;PER;Trinh nữ hoàng cung;0.00009
+733;TNHH;;Trách nhiệm hữu hạn;0.006469
+734;TNK;;thuế nhập khẩu;0.000139
+735;TNKQ;;trắc nghiệm khách quan;0.00009
+736;TNLN;PER;thanh niên lập nghiệp;0.000078
+737;TNMT;;Tài nguyên Môi trường;0.000207
+738;TNND;;Tiếng nói Nhân dân;0.000024
+739;TNNT;;thanh niên nông thôn;0.000038
+740;TNO;ORG;Thanh niên Online;0.00024
+741;TNS;PER;tu nghiệp sinh;0.00046
+742;TNSV;PER;thanh niên sinh viên;0.000037
+743;TNSVVN;PER;thanh niên sinh viên Việt Nam;0.000005
+744;TNT;PER;Tình Nguyện Trẻ;0.000255
+745;TNTN;;thanh niên tình nguyện, tài nguyên thiên nhiên;0.000611
+746;TNTP;PER;Thiếu niên Tiền phong;0.000093
+747;TNV;PER;Tình nguyện viên;0.000455
+748;TNVN;PER;Thanh niên Việt Nam;0.000054
+749;TNXH;;tệ nạn xã hội;0.000024
+750;TNXK;PER;Thanh niên xung kích;0.000043
+751;TNXP;PER;Thanh niên xung phong;0.001243
+752;TPCĐ;;trái phiếu chuyển đổi;0.000021
+753;TPCN;;Thực phẩm chức năng;0.000982
+754;TPCT;;Thành phố Cần Thơ;0.000081
+755;TPHCM;;Thành phố Hồ Chí Minh;0.011527
+756;TPO;ORG;Tiên phong Online;0.00839
+757;TQ;LOC;Trung Quốc;0.006223
+758;TSDĐ;;tiền sử dụng đất;0.000053
+759;TSKH;PER;Tiến sỹ Khoa học;0.000474
+760;TSN;;Tân Sơn Nhất;0.000088
+761;TT;;Trung tâm, Thị trường;0.054038
+762;TTBĐS;;thị trường bất động sản;0.000054
+763;TTBDVH;;Trung tâm bồi dưỡng văn hóa;0.000023
+764;TTBDVHNG;;Trung tâm bồi dưỡng văn hóa ngoài giờ;0.000004
+765;TTBVQTG;;Trung tâm bảo vệ quyền tác giả;0.000082
+766;TTBYT;;Trang thiết bị y tế;0.000028
+767;TTCK;ORG;Trung tâm chứng khoán, Thị trường Chứng khoán;0.000702
+768;TTCN;ORG;Tuổi trẻ Chủ nhật, Trung tâm cai nghiện, Tiểu thủ công nghiệp;0.002249
+769;TTCP;PER;Thanh tra Chính phủ , Thủ tướng Chính phủ;0.000112
+770;TTCT;;Thể Thao Cuối Tuần;0.000661
+771;TTĐB;;thuế Tiêu thụ đặc biệt;0.000183
+772;TTDD;ORG;Trung tâm Dinh dưỡng;0.000076
+773;TTĐM;ORG;Trung tâm Điện máy;0.000026
+774;TTDV;ORG;Trung tâm Dịch vụ;0.000001
+775;TTDVVL;ORG;Trung tâm Dịch vụ việc làm;0.000026
+776;TTg;PER;Thủ tướng;0.000761
+777;TTGDCK;ORG;Trung tâm giao dich chứng khoán;0.000373
+778;TTGDTX;ORG;Trung tâm Giáo dục thường xuyên;0.000052
+779;TTGT;;Trật tự Giao thông;0.000135
+780;TTH;LOC;Thừa Thiên Huế;0.000079
+781;TTHTCĐ;ORG;Trung tâm học tập cộng đồng;0.000063
+782;TTHTSV;ORG;trung tâm hỗ trợ sinh viên;0.00015
+783;TTK;PER;tổng thư ký;0.000408
+784;TTLT;;Thông tư liên tịch;0.000107
+785;TTN;PER;thanh thiếu niên;0.00039
+786;TTNN;ORG;Trung tâm Ngoại Ngữ;0.000047
+787;TTO;ORG;Tuổi trẻ online;0.024043
+788;TTQLKT;;trật tự quản lý kinh tế;0.000037
+789;TTTH;;Trung tâm Tin học;0.000049
+790;TTTM;;trung tâm thương mại ;0.000175
+791;TTTON;;thụ tinh trong ống nghiệm;0.00014
+792;TTTTN;PER;trí thức trẻ tình nguyện;0.00006
+793;TTVGT;PER;trật tự viên giao thông;0.000026
+794;TTVH;;Trung tâm Văn hóa;0.000125
+795;TTVN;;Trí tuệ Việt Nam, Trái tim Việt Nam, Thể thao Việt Nam;0.000437
+796;TTXH;;trật tự xã hội;0.00083
+797;TTXVN;ORG;Thông tấn xã Việt Nam;0.001037
+798;TTYT;;Trung tâm y tế;0.000381
+799;TTYTDP;;Trung tâm Y tế dự phòng;0.000096
+800;TV;;Thư viện, Tivi;0.002167
+801;TVHK;PER;tiếp viên hàng không;0.000092
+802;TVN;ORG;Than Việt Nam;0.000112
+803;TVQH;;Thường vụ Quốc hội;0.000238
+804;TVV;PER;tư vấn viên;0.000078
+805;TW;;Trung ương;0.002021
+806;TX;;Thị xã;0.000794
+807;UBCKNN;ORG;Ủy ban Chứng khoán Nhà nước;0.00023
+808;UBKT;ORG;Uỷ ban Kiểm tra;0.000062
+809;UBMTTQ;ORG;Ủy ban Mạt trận Tổ quốc;0.000228
+810;UBMTTQVN;ORG;Ủy ban Mặt trận Tổ quốc Việt Nam;0.00004
+811;UBNDTP;ORG;Ủy ban Nhân dan Thành phố;0.000216
+812;UBTDTT;ORG;Ủy ban Thể dục Thể thao;0.000567
+813;UBTVQH;ORG;Ủy ban thường vụ Quốc hội ;0.000392
+814;ƯCV;PER;ứng cử viên;0.000154
+815;UNDP;ORG;Chương trình Phát triển Liên Hợp Quốc;0.000422
+816;UNESCO;ORG;Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hiệp quốc;0.001062
+817;UNFPA;ORG;Quỹ dân số Liên Hợp Quốc;0.000046
+818;UNHCR;ORG;Văn phòng Cao ủy Liên hợp quốc về người tỵ nạn;0.000114
+819;UNICEF;ORG;Quỹ Nhi đồng Liên hợp quốc;0.000604
+820;UNIFIL;ORG;Lực lượng gìn giữ hòa bình của LHQ tại miền nam Libăng;0.000019
+821;UT;;ung thư;0.000302
+822;UV;PER;Ủy viên;0.000209
+823;UVBCH;PER;Ủy viên ban chấp hành;0.000004
+824;UVBCT;PER;Ủy viên Bộ chính trị;0.000011
+825;VCB;ORG;Ngân hàng ngoại thương Việt Nam;0.000721
+826;VCK;;Vòng chung kết;0.001479
+827;VD;;ví dụ;0.000082
+828;VĐ;;Vô địch;0.000246
+829;VDC;ORG;Công ty Điện toán và Truyền số liệu;0.000669
+830;VĐQG;;Vô địch Quốc gia;0.000498
+831;VĐV;PER;Vận động viên;0.004798
+832;VĐVQG;PER;Vận động viên Quốc gia;0.000001
+833;VFF;ORG;Liên đoàn bóng đá Việt Nam;0.004241
+834;VH;;Văn hóa;0.001245
+835;VHGDTNTN;;Văn hóa Giáo dục Thanh niên Thiếu niên;0.000006
+836;VHGDTTNNĐ;;Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng;0.000004
+837;VHNT;;Văn học Nghệ thuật;0.000235
+838;VHTT;;Văn hóa Thông tin;0.00103
+839;VKS;ORG;Viện Kiểm sát;0.001029
+840;VKSND;ORG;Viện Kiểm sát Nhân dân;0.000699
+841;VKSNDTC;ORG;Viện Kiểm sát Nhân dân Tối cao;0.000144
+842;VL;;Vật lý;0.000086
+843;VLTK;;Võ Lâm Truyền Kỳ;0.000213
+844;VLXD;;Vật liệu xây dựng;0.000099
+845;VN;LOC;Việt Nam;0.113762
+846;VNCC;ORG;Tổng Công ty Xi măng Việt Nam;0.000081
+847;VNM;ORG;Vinamilk ;0.000107
+848;VP;;Văn phòng;0.000509
+849;VPCP;ORG;Văn phòng chính phủ;0.000242
+850;VPĐD;;Văn phòng đại diện;0.000192
+851;VQG;;Vườn Quốc gia;0.000097
+852;VS;;Vệ sinh;0.0001
+853;VSP;ORG;Xí nghiệp Liên doanh Vietsovpetro;0.000301
+854;VT;;Viên thông, Vi tính, Vũ trụ;0.001456
+855;VTV;ORG;Đài truyền hình Việt Nam;0.001762
+856;VYSA;ORG;Hội Thanh niên Sinh viên Việt Nam tại Nhật Bản;0.000254
+857;WB;ORG;Ngân hàng thế giới;0.001521
+858;WTO;;Tổ chức Thương mại thế giới;0.011868
+859;XD;;Xây dựng;0.00035
+860;XDCB;;xây dựng cơ bản;0.000151
+861;XĐGN;;Xoá đói giảm nghèo;0.000119
+862;XDHK;;Xăng dầu hàng không;0.00004
+863;XH;;Xã hội;0.001462
+864;XHCN;;Xã hội chủ nghĩa;0.000478
+865;XHH;;xã hội hóa;0.000126
+866;XK;;Xuất khẩu;0.000786
+867;XKLĐ;;xuất khẩu lao động;0.000432
+868;XN;;Xí nghiệp;0.000324
+869;XNK;;Xuất nhập khẩu;0.000904
+870;XSKT;;xổ số kiến thiết;0.000102
+871;XTTM;;Xúc tiến thương mại;0.000132
+872;XX;;Xét xử;0.000309
+873;YKVN;ORG;Y khoa Việt Nam;0.000038
+874;YTDP;;Y tế Dự phòng;0.000095
+875;YTế;;Y tế;0.000001
