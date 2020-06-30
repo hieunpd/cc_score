@@ -65,7 +65,7 @@ def detect_url(txt):
 
 if __name__ == "__main__":
     txt = 'Bảo dùng "dsd" là mê mà lại 🥰 👍 😡 #best #dssad https://www.messenger.com/t/sudohainguyen'
-    test,emoji = give_emoji_free_text(txt)
+    test,emoji = detect_emoji(txt)
     print(test)
     print(emoji)
     hash_tag = detect_hashtag(txt)

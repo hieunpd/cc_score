@@ -21,17 +21,15 @@ def connect_database():
 def get_post(users,start_date,end_date):
 
     kapi = connect_database()
-    Anno = Annotator("/home/hieunpd/Documents/VnCoreNLP/VnCoreNLP-1.1.1.jar")
+    Anno = Annotator("/home/hieunpd/Documents/VnCoreNLP/VnCoreNLP-1.1.1.jar") #VnCoreNLP Dictionary
     annotator = Anno.get_annotator()
-    # start_date = datetime.datetime(2020, 1, 20)
-    # end_date = datetime.datetime(2020, 5, 17)
     cluster = kapi['posts'].find({'to_user': {'$in': users}, 'created_date': {'$gte': start_date, '$lt': end_date}},
                                  {'_id': 0, 'fid': 1, 'to_user': 1, 'created_date': 1,
                                   'comments_count': 1, 'shares_count': 1, 'likes_count': 1, 'message': 1})
 
     tb = pd.DataFrame(list(cluster))
     tb['total_int'] = [np.nansum([x, y, z]) for x, y, z in
-                       zip(tb['comments_count'], tb['likes_count'], tb['shares_count'])]
+                      zip(tb['comments_count'], tb['likes_count'], tb['shares_count'])]
 
     emoji_list = []
     hash_tag_list = []
@@ -40,17 +38,19 @@ def get_post(users,start_date,end_date):
     readalitily_score = []
     for content in tb['message']:
         content = str(content)
-        emoji = detect_emoji(content)
-        hash_tag = detect_hashtag(content)
-        url = detect_url(content)
+        emoji = detect_emoji(content) #Find emojis in a text
+        hash_tag = detect_hashtag(content) #Find hash_tag in a text
+        url = detect_url(content) #Find url in a text
+
         # clear free text
         clean_text = " ".join([str for str in content.split(
-        ) if not any(i in str for i in emoji+hash_tag+url)])
-        clean_text = TextPreprocess().preprocess(''.join(clean_text))
+        ) if not any(i in str for i in emoji+hash_tag+url)]) #Remove Emoji, Hash_tag, Url from a text
+
+        clean_text = TextPreprocess().preprocess(''.join(clean_text)) #preprocessing text
         emoji_list.append(emoji)
         hash_tag_list.append(hash_tag)
         url_list.append(url)
-        readalitily_score.append(readability.score(clean_text,annotator))
+        readalitily_score.append(readability.score(clean_text,annotator)) #calculates readability
         clean_text_list.append(clean_text)
     tb['emoji'] = emoji_list
     tb['hash_tag'] = hash_tag_list
