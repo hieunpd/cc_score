@@ -1,7 +1,9 @@
+import pandas as pd
 import regex as re
 import utils
 from vncorenlp import VnCoreNLP
 import emoji
+
 
 # file_vncore = '/home/hieunpd/Documents/VnCoreNLP/VnCoreNLP-1.1.1.jar'
 # annotator = VnCoreNLP(file_vncore, annotators="wseg,pos,ner,parse", max_heap_size='-Xmx2g')
@@ -62,6 +64,23 @@ def detect_hashtag(txt):
 def detect_url(txt):
     url = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', txt)
     return url
+
+def spell_check(txt):
+    vietnamese_dic = pd.read_csv("./Dataset/Vietnamese.csv")
+    spell_list = []
+    for word in txt:
+        if word not in vietnamese_dic:
+            spell_list.append(word)
+    return spell_list
+
+def toxic_word_check(txt):
+    toxic_dic = pd.read_csv("./Dataset/bad_word.csv")
+    toxic_word_list = []
+    for word in txt:
+        if word not in toxic_dic:
+            toxic_word_list.append(word)
+    return toxic_word_list
+    
 
 if __name__ == "__main__":
     txt = 'Bảo dùng "dsd" là mê mà lại 🥰 👍 😡 #best #dssad https://www.messenger.com/t/sudohainguyen'
