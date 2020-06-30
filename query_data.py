@@ -21,7 +21,7 @@ def connect_database():
 def get_post(users,start_date,end_date):
 
     kapi = connect_database()
-    Anno = Annotator("/home/hieunpd/Documents/VnCoreNLP/VnCoreNLP-1.1.1.jar") #VnCoreNLP Dictionary
+    Anno = Annotator("./VnCoreNLP/VnCoreNLP-1.1.1.jar") #VnCoreNLP Dictionary
     annotator = Anno.get_annotator()
     cluster = kapi['posts'].find({'to_user': {'$in': users}, 'created_date': {'$gte': start_date, '$lt': end_date}},
                                  {'_id': 0, 'fid': 1, 'to_user': 1, 'created_date': 1,
@@ -57,7 +57,7 @@ def get_post(users,start_date,end_date):
     tb['url'] = url_list
     tb['text cleaned'] = clean_text_list
     tb['readability'] = readalitily_score
-
+    
     #close vncoreNLP
     annotator.close()
 
